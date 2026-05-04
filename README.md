@@ -46,7 +46,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Benchmark Pipeline (Paper Order)
+## Benchmark Pipeline
 
 ### Stage 1: Build QA dataset
 
