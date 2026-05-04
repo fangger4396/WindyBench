@@ -4,7 +4,7 @@ Open-source benchmark project for multi-agent wind farm O&M diagnosis with RAG-b
 
 ## Overview
 
-This project implements a paper-aligned multi-agent pipeline:
+This project implements a multi-agent pipeline:
 - `SPA`: Signal Perception Agent
 - `TKBA/TKRA`: Technical Knowledge Base + Retrieval Augmentation
 - `CRA`: Contextual Refinement Agent
