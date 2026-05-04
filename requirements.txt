@@ -1,0 +1,10 @@
+accelerate
+bitsandbytes
+datasets
+faiss-cpu
+numpy
+peft
+rouge-score
+sentence-transformers
+torch
+transformers
